@@ -203,6 +203,7 @@ body {
 }
 /* Benefits styles end */
 
+/* Footer styles start */
 .footer {
     padding: 30px;
     clear: both;
@@ -213,3 +214,4 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer styles end */
